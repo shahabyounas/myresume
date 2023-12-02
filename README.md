@@ -2,6 +2,8 @@
 
 # Expressive Resume
 
+https://aqeel-anwar.medium.com/machine-learning-resume-that-got-me-shortlisted-for-meta-microsoft-nvidia-uber-samsung-intel-220761c1a850
+
 A beautiful resume/cover letter LaTeX template pair that are extraordinarily
 easy to use.
 
